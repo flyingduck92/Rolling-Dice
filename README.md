@@ -1,6 +1,4 @@
-# 
-JavaScript Challenge
-# Scrimba - JavaScriptmas Day 8
+# Scrimba - JavaScriptmas 2020 - Day 8
 
 Posted at https://dev.to/flyingduck92/day-8-of-javascriptmas-the-rolling-dice-solution-1km1
 
